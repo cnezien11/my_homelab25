@@ -1,0 +1,9 @@
+ Challenges Faced During Setup
+
+Apartment Ethernet Port Not Working
+
+One of the early challenges I faced was that the built-in Ethernet wall ports in my apartment were non-functional. 
+This was a critical issue since I needed a stable wired connection for my homelab setup in my office.
+I purchased the Solsop  RJ45 Crimp Tool Kit (PT) , which includes an Ethernet crimper compatible with CAT5, CAT5e, and CAT6 cables.
+I manually re-crimped the Ethernet connectors, effectively restoring the wired connection and enabling proper network connectivity for my homelab.
+This experience taught me a lot about basic networking infrastructure and gave me hands-on experience with physical network repair.
